@@ -58,48 +58,6 @@ h3 {
 #cliente {
     text-align: center;
 }
-
-
-
-
-
-
-
-
-#sobretech {
-    padding-left: 20px;
-    font-size: 20px;
-}
-#anuciado {
-    border: hidden 1px black;
-    padding-left: 3%;
-    font-size: 50px;
-    text-align: center;
-}
-#panuciado {
-    border: hidden 1px black;
-    padding-left: 3%;
-    font-size: 30px;
-}
-#titulos {
-    border: 1px black solid;
-    padding-left: 3%;
-    margin-right: 65%;
-    font-size: 30px;
-    align-content: baseline;
-}
-#ptitulo {
-    border: 1px black solid;
-    padding-right: 3%;
-    margin-left: 40%;
-    margin-right: 5%;
-    font-size: 20px ;
-}
-
-
-#clientes {
-    padding-left: 90px;
-}
 #dados {
     border: 1px black hidden;
     border-radius: 10px;
@@ -120,4 +78,13 @@ h3 {
 }
 #contato {
     text-align: center;
+}
+#botao {
+    text-align: center;
+    border: 1px hidden #bf40bf;
+    background-color: #bf40bf;
+    margin-left: 220px;
+    margin-right: 220px;
+    border-radius: 8px;
+    font-size: 17px;
 }
